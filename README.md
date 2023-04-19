@@ -16,24 +16,20 @@ Esse projeto está utilizando as seguintes tecnologias:
 
 ## ⚙️ Como funciona?
 
-- Seleciona categoria e palavra de forma aleatória
-- Usuário possui 3 vidas
-- Caso perca o usuario é levado para tela de GameOver
-- Caso acerte uma nova palavra é escolhida
+- Digite sua altura e peso e seu IMC será calculado.
 
 ## 🎲 Quer customizar o projeto?
 
 ### Clone esse repositório
 
 ```bash
-git clone https://github.com/Savio-Anjos/guess-the-word.git
-
+git clone https://github.com/Savio-Anjos/One-Bit-Health.git
 ```
 
 ### Navegue até o diretório do projeto
 
 ```bash
-cd guess-the-word
+cd One-Bit-Health
 ```
 
 ### Instale as dependências
