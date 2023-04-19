@@ -7,10 +7,6 @@
 <img src="https://img.shields.io/github/last-commit/Savio-Anjos/One-Bit-Health?color=3B82F6"> 
 </p>
 
-## 🚀 Teste o jogo por conta própria:
-
-## - [Deploy](https://guess-the-word-nine.vercel.app/)
-
 ## 🚀 Tecnologias
 
 Esse projeto está utilizando as seguintes tecnologias:
