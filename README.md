@@ -2,9 +2,9 @@
 
  <p align='center'>
 
-<img src="https://img.shields.io/github/languages/count/Savio-Anjos/One-Bit-Health?color=3B82F6">
-<img src="https://img.shields.io/github/repo-size/Savio-Anjos/One-Bit-Health?color=3B82F6">
-<img src="https://img.shields.io/github/last-commit/Savio-Anjos/One-Bit-Health?color=3B82F6"> 
+<img src="https://img.shields.io/github/languages/count/Savio-Anjos/One-Bit-Health?color=FF0043">
+<img src="https://img.shields.io/github/repo-size/Savio-Anjos/One-Bit-Health?color=FF0043">
+<img src="https://img.shields.io/github/last-commit/Savio-Anjos/One-Bit-Health?color=FF0043"> 
 </p>
 
 ## 🚀 Tecnologias
