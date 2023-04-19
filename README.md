@@ -11,8 +11,8 @@
 
 Esse projeto está utilizando as seguintes tecnologias:
 
-- [React](https://pt-br.reactjs.org/)
-- [Lottie](https://lottiefiles.com/)
+- [ReactNative](https://reactnative.dev/)
+- [Expo](https://expo.dev/)
 
 ## ⚙️ Como funciona?
 
